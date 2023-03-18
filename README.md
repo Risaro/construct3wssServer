@@ -26,12 +26,17 @@ Install node-js and npn
 
 ``npm install ws``
 
-``npm install wss``
+``npm install сolors``
 
 ``node server.js``
 
 
 ``Linux``
+
+``npm install ws``
+
+``npm install сolors``
+
 
 ``wget https://github.com/Risaro/construct3wssServer/releases/download/1.0/construct3wssServer.zip``
 
